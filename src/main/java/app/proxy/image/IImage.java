@@ -1,4 +1,4 @@
-package app.controle.image;
+package app.proxy.image;
 
 public interface IImage{
     void display();

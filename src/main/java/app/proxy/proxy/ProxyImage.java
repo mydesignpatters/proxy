@@ -1,7 +1,7 @@
-package app.controle.proxy;
+package app.proxy.proxy;
 
-import app.controle.image.IImage;
-import app.controle.image.RealImage;
+import app.proxy.image.IImage;
+import app.proxy.image.RealImage;
 
 public class ProxyImage implements IImage {
     public RealImage myProxyImage;

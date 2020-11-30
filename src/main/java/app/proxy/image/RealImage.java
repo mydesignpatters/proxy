@@ -1,4 +1,4 @@
-package app.controle.image;
+package app.proxy.image;
 
 import java.io.File;
 

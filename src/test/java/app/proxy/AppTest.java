@@ -1,4 +1,4 @@
-package app.controle;
+package app.proxy;
 
 import static org.junit.Assert.assertEquals;
 

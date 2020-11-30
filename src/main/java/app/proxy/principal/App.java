@@ -1,7 +1,7 @@
-package app.controle.principal;
+package app.proxy.principal;
 
-import app.controle.image.IImage;
-import app.controle.proxy.ProxyImage;
+import app.proxy.image.IImage;
+import app.proxy.proxy.ProxyImage;
 
 /**
 O padrão Proxy está mais ligado a prover um objeto para servir como intermediário na comunicação com um outro principal.
